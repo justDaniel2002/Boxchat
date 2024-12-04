@@ -1,0 +1,6 @@
+@BEBoxchat_HostAddress = http://localhost:5269
+
+GET {{BEBoxchat_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
